@@ -1,2 +1,2 @@
 # geesespotter
-This is a project that I coded using C++ for my intro to programming class that is essentially a game of minesweeper.
+This is a project that I coded using C++ for my intro to programming class that is essentially a game of minesweeper. In this project, geesespotter.h, geesespotter_lib.cpp, and geesespotter_lib.h were given to us while all the functions in geesespotter.cpp were coded by myself. This was done using pointers, arrays, cascading if statements, and nested for loops. I received a 100% on this project.
